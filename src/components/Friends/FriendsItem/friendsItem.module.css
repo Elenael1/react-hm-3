@@ -1,0 +1,17 @@
+.friendsItem{
+    height: 100px;
+    width: 300px;
+    list-style: none;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    margin: 15px;
+}
+.friendsImg {
+    width: 100px;
+}
+
+.name{
+    display: inline-block;
+}
+
+
